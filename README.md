@@ -8,5 +8,6 @@ s katere sem pobral podatke o igralcih iz lige NBA.
 Podatke sem shranil v mapo igralci_directory, glavno stran sem shranil v mapo igralci_html, 
 CSV datoteka, v katero sem shranil podatk, pa se imenuje igralci_url.csv.  
 
-Za aba dela projekta, zajem in analizo podatkov, sem uporabljal jupyter notebooks.
+Za oba dela projekta, zajem (datoteka Zajem-podatkov) in analizo podatkov (datoteka Analiza-podatkov), sem uporabljal jupyter notebooks.
+
 
